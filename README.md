@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as junior web development.<br>👯 I’m looking to collaborate on Full-stack web development and AI/ML projects.<br>🌱 I’m currently learning  AI/ML and optimizing web performance<br>💬 Ask me about: Frontend, backend, and DSA<br>⚡ Fun fact: I’m in my final year of BCA and always eager to explore new technologies!
+🔭 I’m currently working as junior web development.<br>👯 I’m looking to collaborate on Full-stack web development and AI/ML projects.<br>🌱 I’m currently learning  AI/ML and optimizing web performance<br> I Know: Frontend, backend, and DSA<br>⚡ Fun fact: I’m in my final year of BCA and always eager to explore new technologies!
 
 
 ## 🌐 Socials:
